@@ -1,0 +1,28 @@
+- [Equations_and_Inequalities]
+  - The Minimum or Maximum value of a quadratic expression
+  - Completing the square
+  - Quadratic Equations
+    - Solving Quadratic Equations by Completing the square
+    - The Quadratic Formula
+    - Quadratic Equations with no real solutions
+  - Equations with fractions
+  - Square root equations
+  - Solving equations by substitution
+  - Simultaneous Equations
+  - Quadratic Inequalities
+  - Undefined and non-real expressions
+  - The nature of the roots of a quadratic equation
+    - Nature of roots of equations of the form `(mx + n)² = d`
+  - Applications of Quadratic Equations
+
+- [Exponents]
+- [Number_Patterns]
+- [Functions]
+- [General_Trigonometry]
+- [Trigonometry_in_Triangles]
+- [Analytical_Geometry]
+- [Euclidean_Geometry]
+- [Measurement]
+- [Financial_Mathematics]
+- [Statistics]
+- [Probability]
