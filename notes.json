@@ -1,0 +1,89 @@
+{
+  "concepts": [
+    {
+      "name": "Equations and Inequalities",
+      "children": [
+        {
+          "name": "The Minimum or Maximum value of a quadratic expression"
+        },
+        {
+          "name": "Completing the square"
+        },
+        {
+          "name": "Quadratic Equations",
+          "children": [
+            {
+              "name": "Solving Quadratic Equations by Completing the square"
+            },
+            {
+              "name": "The Quadratic Formula"
+            },
+            {
+              "name": "Quadratic Equations with no real solutions"
+            }
+          ]
+        },
+        {
+          "name": "Equations with fractions"
+        },
+        {
+          "name": "Square root equations"
+        },
+        {
+          "name": "Solving equations by substitution"
+        },
+        {
+          "name": "Simultaneous Equations"
+        },
+        {
+          "name": "Quadratic Inequalities"
+        },
+        {
+          "name": "Undefined and non-real expressions"
+        },
+        {
+          "name": "The nature of the roots of a quadratic equation"
+        },
+        {
+          "name": "Nature of roots of equations of the form `(mx + n)² = d`"
+        },
+        {
+          "name": "Applications of Quadratic Equations"
+        }
+      ]
+    },
+    {
+      "name": "Exponents"
+    },
+    {
+      "name": "Number Patterns"
+    },
+    {
+      "name": "Functions"
+    },
+    {
+      "name": "General Trigonometry"
+    },
+    {
+      "name": "Trigonometry in Triangles"
+    },
+    {
+      "name": "Analytical Geometry"
+    },
+    {
+      "name": "Euclidean Geometry"
+    },
+    {
+      "name": "Measurement"
+    },
+    {
+      "name": "Financial Mathematics"
+    },
+    {
+      "name": "Statistics"
+    },
+    {
+      "name": "Probability"
+    }
+  ]
+}
