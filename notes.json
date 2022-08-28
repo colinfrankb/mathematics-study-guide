@@ -1,5 +1,4 @@
-{
-  "concepts": [
+[
     {
       "name": "Equations and Inequalities",
       "children": [
@@ -89,4 +88,3 @@
       "name": "Probability"
     }
   ]
-}
