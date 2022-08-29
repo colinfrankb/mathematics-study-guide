@@ -309,13 +309,86 @@
       ]
     },
     {
-      "name": "Trigonometry in Triangles"
+      "name": "Trigonometry in Triangles",
+      "children": [
+        {
+          "name": "Labelling of triangles"
+        },
+        {
+          "name": "The Sine rule"
+        },
+        {
+          "name": "The Cosine rule"
+        },
+        {
+          "name": "The Area rule"
+        },
+        {
+          "name": "Mixed numerical problems"
+        },
+        {
+          "name": "Variable problems"
+        },
+        {
+          "name": "Angles of elevation and depression"
+        }
+      ]
     },
     {
-      "name": "Analytical Geometry"
+      "name": "Analytical Geometry",
+      "children": [
+        {
+          "name": "Distance",
+          "children": [
+            {
+              "name": "Equidistance"
+            }
+          ]
+        },
+        {
+          "name": "Midpoint"
+        },
+        {
+          "name": "Gradient"
+        },
+        {
+          "name": "The equation of a straight line"
+        },
+        {
+          "name": "Gradient-point form"
+        },
+        {
+          "name": "Calculating the point of intersection"
+        },
+        {
+          "name": "The angle between two lines"
+        },
+        {
+          "name": "Triangles",
+          "children": [
+            {
+              "name": "Special lines"
+            }
+          ]
+        },
+        {
+          "name": "Quadrilaterals"
+        },
+        {
+          "name": "Finding the fourth vertex"
+        },
+        {
+          "name": "Proving that a quadrilateral is of a specific type"
+        }
+      ]
     },
     {
-      "name": "Euclidean Geometry"
+      "name": "Euclidean Geometry",
+      "children": [
+        {
+          "name": "Definitions"
+        }
+      ]
     },
     {
       "name": "Measurement"
