@@ -52,7 +52,65 @@
       ]
     },
     {
-      "name": "Exponents"
+      "name": "Exponents",
+      "children": [
+        {
+          "name": "Laws of exponents"
+        },
+        {
+          "name": "Definitions"
+        },
+        {
+          "name": "Rational exponents"
+        },
+        {
+          "name": "Simplifying exponential expressions",
+          "children": [
+            {
+              "name": "Multiplication and division"
+            },
+            {
+              "name": "Addition and subtraction",
+              "children": [
+                {
+                  "name": "The common factor type"
+                },
+                {
+                  "name": "Difference of two squares"
+                },
+                {
+                  "name": "Quadratic trinomials"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Exponential equations",
+          "children": [
+            {
+              "name": "The basic type"
+            },
+            {
+              "name": "The quadratic trinomial type"
+            }
+          ]
+        },
+        {
+          "name": "Equations with rational exponents",
+          "children": [
+            {
+              "name": "Special cases"
+            }
+          ]
+        },
+        {
+          "name": "Surds"
+        },
+        {
+          "name": "Rationalising the denominator"
+        }
+      ]
     },
     {
       "name": "Number Patterns"
