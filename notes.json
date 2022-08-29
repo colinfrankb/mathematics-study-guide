@@ -189,10 +189,124 @@
       ]
     },
     {
-      "name": "General Trigonometry"
+      "name": "General Trigonometry",
+      "children": [
+        {
+          "name": "Definitions"
+        },
+        {
+          "name": "Signs of trigonometric ratios"
+        },
+        {
+          "name": "Reduction"
+        },
+        {
+          "name": "Negative angles"
+        },
+        {
+          "name": "Angles greater than 360"
+        },
+        {
+          "name": "Revolutions"
+        },
+        {
+          "name": "Co-functions"
+        },
+        {
+          "name": "Reduction involving numerical angles",
+          "children": [
+            {
+              "name": "Special angles"
+            },
+            {
+              "name": "Non-special numerical angles"
+            }
+          ]
+        },
+        {
+          "name": "Identities",
+          "children": [
+            {
+              "name": "The basic identities"
+            },
+            {
+              "name": "Proving further identities"
+            },
+            {
+              "name": "More advanced identities"
+            },
+            {
+              "name": "Using identities together with reduction"
+            }
+          ]
+        },
+        {
+          "name": "Trigonometric values represented by letters"
+        },
+        {
+          "name": "The general solution of a trigonometric equation"
+        },
+        {
+          "name": "Finding solutions in a given interval"
+        },
+        {
+          "name": "Boundary angles"
+        },
+        {
+          "name": "Equations requiring the use of factorisation"
+        },
+        {
+          "name": "Using identities to solve equations",
+          "children": [
+            {
+              "name": "Dividing by COSQ"
+            },
+            {
+              "name": "Other equations requiring the use of identities"
+            }
+          ]
+        },
+        {
+          "name": "Equations of the form sin a = sin b; cos a = cos b or tan a = tan b"
+        },
+        {
+          "name": "Using equations to determine where identities are undefined"
+        }
+      ]
     },
     {
-      "name": "Trigonometric Functions"
+      "name": "Trigonometric Functions",
+      "children": [
+        {
+          "name": "Definitions"
+        },
+        {
+          "name": "Amplitude changes and vertical shifts"
+        },
+        {
+          "name": "Sketching for different intervals"
+        },
+        {
+          "name": "Horizontal shifts"
+        },
+        {
+          "name": "Period changes"
+        },
+        {
+          "name": "Amplitude changes and vertical shifts",
+          "children": [
+            {
+              "name": "The role of k"
+            }
+          ]
+        },
+        {
+          "name": "Finding the equation of a trigonometric function"
+        },
+        {
+          "name": "Graph interpretation"
+        }
+      ]
     },
     {
       "name": "Trigonometry in Triangles"
