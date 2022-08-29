@@ -113,10 +113,80 @@
       ]
     },
     {
-      "name": "Number Patterns"
+      "name": "Number Patterns",
+      "children": [
+        {
+          "name": "The general term of a linear number pattern"
+        },
+        {
+          "name": "Quadratic number patterns"
+        },
+        {
+          "name": "The General Term of a quadratic number pattern"
+        },
+        {
+          "name": "Unknown terms"
+        },
+        {
+          "name": "Minimum and maximum terms"
+        },
+        {
+          "name": "Difference between specific terms"
+        }
+      ]
     },
     {
-      "name": "Functions"
+      "name": "Functions",
+      "children": [
+        {
+          "name": "Basic concepts"
+        },
+        {
+          "name": "The mother functions"
+        },
+        {
+          "name": "Transforming the mother function",
+          "children": [
+            {
+              "name": "Horizontal shifts (p-values)"
+            }
+          ]
+        },
+        {
+          "name": "Standard forms of the different types of functions"
+        },
+        {
+          "name": "Quadratic function (parabola)"
+        },
+        {
+          "name": "Recipricol function (hyperbola)"
+        },
+        {
+          "name": "Exponential function",
+          "children": [
+            {
+              "name": "Finding the equation of an exponential function"
+            }
+          ]
+        },
+        {
+          "name": "Transformations of functions"
+        },
+        {
+          "name": "Average gradient"
+        },
+        {
+          "name": "Interpretation of graphs",
+          "children": [
+            {
+              "name": "Maximum and minimum lengths"
+            },
+            {
+              "name": "Nature of roots"
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "General Trigonometry"
